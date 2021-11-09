@@ -1,0 +1,7 @@
+public class Lin_C110181126
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello World!");
+    }
+}
