@@ -9,7 +9,7 @@ public class ab {
                 }
             }
             if (k) {
-                System.out.print(i + " ");
+                System.out.print(i);
             }
         }
     }
