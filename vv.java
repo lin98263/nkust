@@ -7,9 +7,7 @@ public class vv {
                 }
                 else if (n == i - 1) {
                     System.out.println(i);
-                    break;
                 }
-
             }
         }
     }
